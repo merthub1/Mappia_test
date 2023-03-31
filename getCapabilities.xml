@@ -197,7 +197,7 @@
 				<Title>96</Title>
 				<Abstract>GH:96 ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-74.4462043138141" miny="45.669104673274475" maxx="-73.96416057534286" maxy="45.96663066901162"></LatLonBoundingBox>
@@ -217,7 +217,7 @@
 				<Title>mrcpdh_matrice_graphique</Title>
 				<Abstract>GH:mrcpdh_matrice_graphique ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-74.54441236935156" miny="45.751763368178814" maxx="-73.95794419846204" maxy="46.11768725086906"></LatLonBoundingBox>
@@ -237,7 +237,7 @@
 				<Title>cours_deau_2022_01_14</Title>
 				<Abstract>GH:cours_deau_2022_01_14 ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-74.54256554814619" miny="45.654962784998354" maxx="-73.96191589732199" maxy="46.118603494509415"></LatLonBoundingBox>
@@ -257,7 +257,7 @@
 				<Title>mun</Title>
 				<Abstract>GH:mun ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-78.08772100747358" miny="44.91392991237537" maxx="-70.65311739412921" maxy="49.05504907001871"></LatLonBoundingBox>
